@@ -1,5 +1,6 @@
 # SRC https://github.com/vercel/next.js/blob/canary/examples/with-docker/Dockerfile
 
+
 # ============================================
 # Stage 1: Dependencies Installation Stage
 # ============================================
